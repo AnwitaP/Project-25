@@ -32,7 +32,7 @@ function setup() {
 	} )  
 
 	Engine.run(engine);
-	Render.run(render);  
+	//Render.run(render);  
 }
 
 
